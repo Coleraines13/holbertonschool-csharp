@@ -20,7 +20,7 @@ public struct Dog
     public float age;
     public string owner;
     public Rating rating;
-    public override string Tostring()
+    public override string ToString()
     {
         return $"Dog Name: {name}\nAge: {age}\nOwner: {owner}\nRating: {rating}";
     }
