@@ -1,6 +1,6 @@
 using System;
 
-class List
+class Int
 {
     public static void divide(int a, int b)
     {
