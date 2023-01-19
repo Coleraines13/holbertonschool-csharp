@@ -2,7 +2,7 @@ using System;
 
 class List
 {
-    public static int divide(int a, int b)
+    public static void divide(int a, int b)
     {
         int result = 0;
         try
