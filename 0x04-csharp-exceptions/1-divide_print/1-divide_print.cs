@@ -9,7 +9,7 @@ class List
         {
             result = a / b;
         }
-            catch (DvivideByZeroException)
+            catch (DivideByZeroException)
             {
                 Console.WriteLine("Cannot divivde by zero");
             }
