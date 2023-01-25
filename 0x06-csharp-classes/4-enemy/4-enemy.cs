@@ -45,11 +45,3 @@ namespace Enemies
         }
     }
 }
-
-        /// <summary>Gets the health of the zombie</summary>
-        public int GetHealth()
-        {
-            return health;
-        }
-    }
-}

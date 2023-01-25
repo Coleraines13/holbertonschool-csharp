@@ -12,7 +12,7 @@ namespace Enemies
         // Private field that defines the name of the zombie
         private string name = "(No name)";
         /// <summary> Gets or sets the name of the zombie</summary>
-        public string name
+        public string Name
         {
             get
             {
