@@ -5,7 +5,7 @@ namespace Enemies
     // This class is empty.
     /// <summary>
     /// This class is empty
-    /// <summary>
+    /// </summary>
     public class zombie
     {
 
