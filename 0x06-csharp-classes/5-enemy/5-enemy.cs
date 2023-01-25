@@ -20,7 +20,7 @@ namespace Enemies
             }
             set
             {
-                name =- value;
+                name = value;
             }
         }
         /// <summary> Initializes a new instance of <see cref="Zombie"/> class.</summary>
