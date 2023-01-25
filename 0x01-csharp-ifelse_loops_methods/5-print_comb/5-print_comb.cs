@@ -6,7 +6,7 @@ namespace _5_print_comb
     {
         static void Main(string[] args)
         {
-            for (int i = 'a'; i <= 'z'; i++)
+            for (int i = 0; i < 100; i++)
             {
                 string separator = ", ";
 
