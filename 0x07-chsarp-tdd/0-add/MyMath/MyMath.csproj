@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+<ItemGroup>
+
+</ItemGroup>
+
+<PropertyGroup>
+<TargetFrameWork>netstandered2.0</TargetFrameWork>
+<DocumentationFile>bin\$(Configuration)\$(TargetFrameWork)\$(AssemblyName).xml</DocumentationFile>
+</PropertyGroup>
+
+</Project>
