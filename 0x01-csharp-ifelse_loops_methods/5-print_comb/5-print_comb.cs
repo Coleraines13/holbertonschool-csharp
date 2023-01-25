@@ -1,6 +1,6 @@
-Using System;
+using System;
 
-namespace _3_print_alphabt
+namespace _5_print_comb
 {
     class Program
     {

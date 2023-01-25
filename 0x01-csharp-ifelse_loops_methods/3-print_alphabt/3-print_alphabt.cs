@@ -1,4 +1,4 @@
-Using System;
+using System;
 
 namespace _3_print_alphabt
 {
