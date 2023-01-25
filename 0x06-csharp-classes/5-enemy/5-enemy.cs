@@ -5,7 +5,7 @@ namespace Enemies
     /// <summary>
     /// This class creates a zombie
     /// </summary>
-    public class zombie
+    public class Zombie
     {
         // Private field thats defines the health of the zombie
         private int health;
